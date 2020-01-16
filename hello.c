@@ -6,4 +6,7 @@ int main(void) {
 
   printf("Major: Electrical Engineering"\n);
 
+  printf("Zander Ziettlow\n");
+  printf("Electrical Engineering\n");
+
 }
