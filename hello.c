@@ -2,6 +2,8 @@
 
 int main(void) {
 
-  printf("Eric Lesiak");
+  printf("Eric Lesiak\n");
+
+  printf("Major: Electrical Engineering"\n);
 
 }
